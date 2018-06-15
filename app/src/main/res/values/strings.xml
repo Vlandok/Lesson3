@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lesson3_Maskaikin</string>
+    <string name="personalData">Личные данные</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="email">E-mail</string>
+    <string name="login">Логин</string>
+    <string name="your_region">Ваш регион</string>
+    <string name="exit_from_account">Выйти из аккаунта</string>
+    <string name="img_description_profil">Фото человека</string>
+    <string name="img_description_edit_region">Изменить регион</string>
+
+</resources>
